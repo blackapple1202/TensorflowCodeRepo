@@ -5,30 +5,21 @@
 
 
 
-## 1. Overview
+## Overview
 
+None
 
-
-This repository is for practicing tensorflow. There is no such a huge goal in this repository.
-
-
-
-## 2. Environment
+## Environment
 
 
 Following development environments are
+* Ubuntu 16.04 LTS
+* Used Python 2.7.12
+* virtualenv : installed tensorflow-gpu, pandas, matplotlib, etc
 
-> Ubuntu 16.04 LTS
-
->> Python 2.7.12
-
->> Virtualenv
-
->>> ->Tensorflow-gpu
-
->> PyCharm (Jetbrain Python IDE Community ver)
-
->> GPU : NVIDIA Geforce GTX 980Ti
-
+Following computer specifications are
+* CPU : Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+* RAM : 16GB
+* GPU : NVIDIA Geforce GTX 980Ti
 
 
