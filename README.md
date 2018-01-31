@@ -6,11 +6,14 @@
 ## Overview
 
 01. MNIST Visualize:
+  * <a href='01.MNIST_Visualize/setup.md'>Setup</a><br>
 
 02. Model Save & Load:
-
+  * <a href='02.Model_Save_Load/setup.md'>Setup</a><br>
+  
 03. Object Detection:
-
+  * <a href='03.Object_Detection/setup.md'>Setup</a><br>
+  
 ## Environment
 
 
